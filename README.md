@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Jaylen
 
-<!--
-**jrock0824/jrock0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Senior Computer Science student @ University of Central Oklahoma  
+- 🔐 Aspiring Cybersecurity Engineer | 🤖 AI Explorer  
+- 🛠️ Building secure, intelligent systems that solve real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+- 🤖 Developing an AI project to support parents with child behavior insights  
+- 📚 Studying for Security+ certification  
+- 🧪 Expanding skills in Python, C++, SQL, and secure development practices
+
+---
+
+🔎 Interests
+Cybersecurity • AI/ML • Ethical Hacking • Software Development • Leadership  
+
+---
+
+## 📫 Connect With Me  
+[LinkedIn] https://www.linkedin.com/in/jaylen-rider-746168254/ • jaylenr2002@icloud.com
+
+---
+
