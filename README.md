@@ -19,7 +19,7 @@ Cybersecurity • AI/ML • Ethical Hacking • Software Development • Leaders
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn] https://www.linkedin.com/in/jaylen-rider-746168254/ • jaylenr2002@icloud.com
+[LinkedIn] https://www.linkedin.com/in/jaylen-rider-746168254/
 
 ---
 
